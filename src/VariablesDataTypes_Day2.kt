@@ -32,5 +32,4 @@ fun main() {
     println(distance)
     println(isLogin)
 
-
 }
